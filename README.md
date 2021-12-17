@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nsarob
 - 👀 I’m interested in robotics and web3 coding 
-- 🌱 I’m currently learning web 3 with solidity 
-- 💞️ I’m looking to collaborate on web 3 project
+- 🌱 I’m currently learning web3 with solidity 
+- 💞️ I’m looking to collaborate on web3 project
 - 📫 How to reach me https://twitter.com/nsanzimfurajean
 
 <!---
